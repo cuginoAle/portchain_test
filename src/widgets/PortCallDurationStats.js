@@ -84,7 +84,6 @@ const PortCallDurationStats = ({ portsWithStats }) => {
           label: port.name,
           data: port.percentiles.map(perc => {
             return minutesToHours(perc);
-            // return perc;
           }),
           backgroundColor: "transparent",
           borderColor: `hsl(${(360 / 10) * index},60%, 50%)`,
