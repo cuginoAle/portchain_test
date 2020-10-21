@@ -7,7 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm i`
 
-To install all dependencies.
+To install all the dependencies.
+You need to do this only once.
 
 ### `npm start`
 
